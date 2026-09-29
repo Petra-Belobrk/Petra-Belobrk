@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Petra Mlinarević</h1>
-<h3 align="center">Backend developer from Croatia · 4+ years · Node.js / TypeScript</h3>
+<h3 align="center">Backend developer from Croatia · 5+ years · Node.js / TypeScript</h3>
 
 <p align="center">I build REST and GraphQL APIs, design relational schemas, and ship containerized backends.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=petra-belobrk&label=Profile%20views&color=0e75b6&style=flat" alt="petra-belobrk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=petra-belobrk" alt="petra-belobrk" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petra-belobrk&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
 - 🔭 I'm currently working as **backend developer**
 
@@ -21,12 +19,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/petra-mlinarevic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petra-mlinarevic" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/petra-mlinarevic/" target="_blank" rel="noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="petra-mlinarevic" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Featured project:</h3>
 
-- **[notes-api](https://github.com/Petra-Belobrk/notes-api)** — NestJS + Prisma 7 API for managing Markdown notes. Uploads, sanitized HTML rendering (`markdown-it` + `sanitize-html`), and grammar checks via LanguageTool. SQLite via the new Prisma driver-adapter setup, with Docker Compose for one-command local runs.
+- **[nestjs-oib-validator](https://github.com/Petra-Belobrk/nestjs-oib-validator)** — Croatian OIB validation for NestJS, published on [npm](https://www.npmjs.com/package/nestjs-oib-validator). Provides an `@IsOIB()` `class-validator` decorator with ISO 7064 MOD 11,10 check-digit verification that plugs straight into Nest's `ValidationPipe`. Fully typed, with CI.
 
 <h3 align="left">Core stack:</h3>
 <p align="left">
@@ -60,9 +58,9 @@
 <h4 align="left">Also experienced with:</h4>
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=petra-belobrk&" alt="petra-belobrk" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=petra-belobrk" alt="GitHub streak stats" /></p>
